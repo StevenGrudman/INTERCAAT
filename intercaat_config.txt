@@ -1,0 +1,3 @@
+qvoronoi_path = /home/steven/intercaat/qhull/bin/
+executable_name = qvoronoi Fi
+run_python_version = yes 
